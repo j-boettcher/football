@@ -1,2 +1,4 @@
 Datei 1
 Fehler
+Noch ein neuer Text
+Noch ein neuer Text 2
